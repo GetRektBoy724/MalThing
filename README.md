@@ -12,7 +12,7 @@ MAKE SURE YOU HAVE AN INTERNET ACCESS!!!
 
 3.open msfconsole run listener with multi/handler setup and with your localhost and port=3249
 
-3.install and run the apk on your victime phone.....make sure your victim phone had a internet access(FOR THE APK FILE)
+3.install and run the apk on your victime phone.....make sure your victim phone had a internet access(FOR THE MalAPK FILE)
 
 3.Run it on the victim computer.....make sure your victim computer had a internet access(FOR THE MalEXE,MalMS,MalPDF)
 
