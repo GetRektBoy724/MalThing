@@ -14,7 +14,7 @@ MAKE SURE YOU HAVE AN INTERNET ACCESS!!!
 
 3.install and run the apk on your victime phone.....make sure your victim phone had a internet access(FOR THE MalAPK FILE)
 
-3.Run it on the victim computer.....make sure your victim computer had a internet access(FOR THE MalEXE,MalMS,MalPDF)
+3.Run it on the victim computer.....make sure your victim computer had a internet access(FOR THE MalEXE,MalMS,MalPDF,MalBMP)
 
 4.and get a METERPRETER SHELL!!!!!HAHAHAHAHA
 
